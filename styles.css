@@ -1,0 +1,36 @@
+*{
+  --corVerde: #00a85a;
+  --corLaranja: #f58536;
+  --corAzul: #097f8b;
+  --corBranca: white;
+  margin: 0 auto;
+  padding: 0;  
+}
+
+
+body{
+  color:#097f8b
+}
+
+.nav-item{
+color: #097f8b;
+}
+
+.card img{
+  position:static;
+}
+footer a{
+  margin:0 4vw 0 16vw;  
+}
+
+.nav-item:hover{
+  font-weight: bolder;
+  text-shadow: darkblue;
+}
+
+/*PAINEL INICIAL*/
+
+/*PÁGINA A TERRA DOS LIVROS*/
+
+/*PÁGINA LIVROS REVISADOS*/
+/*PÁGINA INDICAÇÕES DE LIVROS*/
