@@ -4,12 +4,14 @@
   --corAzul: #097f8b;
   --corBranca: white;
   margin: 0 auto;
-  padding: 0;  
+  padding: 0 auto;
+  max-width: 1366px;  
 }
 
 
 body{
-  color:#097f8b
+  
+  font-weight: 400;
 }
 
 .nav-item{
