@@ -28,3 +28,8 @@ footer a{
   font-weight: bolder;
   text-shadow: darkblue;
 }
+
+.read-story {
+  cursor:pointer;
+}
+#more {display: none;}
