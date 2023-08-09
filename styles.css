@@ -5,7 +5,9 @@
   --corBranca: white;
   margin: 0 auto;
   padding: 0 auto;
-  max-width: 1366px;  
+  max-width: 1360px;
+  box-sizing: border-box;
+  font-family: "roboto";  
 }
 
 
